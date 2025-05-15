@@ -377,6 +377,7 @@ body {
 .footer__submit {
   padding: 6px 12px;
   border-radius: 2px;
+  font-family: "Raleway";
   background-color: var(--green);
   outline: none;
   border: none;
